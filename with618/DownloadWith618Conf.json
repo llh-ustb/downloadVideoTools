@@ -1,0 +1,17 @@
+//threadingPoolWorkers : there are "threadingPoolWorkers" threads to download videos
+{
+  "action": "download video",
+  "threadingPoolWorkers":10,
+  "downloadInfo": [
+    {
+      "savePath": "v/",
+      "url": "https://www.iqiyi.com/v_19rxfnb3w 4.html#curid=12894514200_342efb2edde4bd6ffa6a6029f9972a90",
+      "outputName":"1.mp4"
+    },
+    {
+      "savePath": "vv/",
+      "url": "https://www.iqiyi.com/v_19rxfn0030.html#curid=12896076800_af058f3d9159f04942feadbd8901dc14",
+      "outputName":"2.mp4"
+    }
+  ]
+}
